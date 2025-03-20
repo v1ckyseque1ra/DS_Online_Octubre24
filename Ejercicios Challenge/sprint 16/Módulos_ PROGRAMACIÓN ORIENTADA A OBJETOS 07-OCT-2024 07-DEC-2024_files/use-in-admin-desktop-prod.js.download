@@ -1,0 +1,2 @@
+const url = "https://canvas-public-content.s3.sa-east-1.amazonaws.com/prod/js-desktop.js"
+$.getScript(url)

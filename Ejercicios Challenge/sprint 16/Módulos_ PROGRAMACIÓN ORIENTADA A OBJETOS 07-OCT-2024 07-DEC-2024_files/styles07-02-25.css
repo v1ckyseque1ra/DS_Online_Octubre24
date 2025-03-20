@@ -1,0 +1,1364 @@
+@import url(https://content.lameca.com.ar/Innovacion/Lac2025/LAC2025.css); /*07/02/25*/
+@import url(https://s3.us-east-1.amazonaws.com/content.lameca.com.ar/estilos/softtek2024/style.css); /*27/11/24*/
+@import url(https://content.lameca.com.ar/Innovacion/landing-swissmedical-2024/style/styles.css); /*13/11/24*/
+@import url(https://s3.us-east-1.amazonaws.com/content.lameca.com.ar/Innovacion/caba2024/style.css); /*29/07/24*/
+@import url(https://content.lameca.com.ar/Innovacion/tp-map-2024/img/Final/styleee.css); /*04/07/24*/
+@import url(https://s3.us-east-1.amazonaws.com/content.lameca.com.ar/canvas/0Vida21/maquetaImpulso21/style.css); /*23/05/24*/
+@import url(https://s3.us-east-1.amazonaws.com/content.lameca.com.ar/Innovacion/APLV-BLOCK/landing/estilo.css); /*27/03/24*/
+@import url(https://content.lameca.com.ar/Innovacion/APLV/aplv-2023-siglo/aplv.css); /*26/03/24*/
+@import url(https://s3.us-east-1.amazonaws.com/content.lameca.com.ar/Innovacion/DICSYS/style.css); /*08/02/24*/
+@import url(https://s3.us-east-1.amazonaws.com/content.lameca.com.ar/Innovacion/M%C3%B3dulo0Posgrado/style.css); /*15/01/24*/
+@import url(https://content.lameca.com.ar/Innovacion/Renault/style.css); /*09/10*/
+@import url(https://content.lameca.com.ar/Innovacion/NEORIS/style.css); /*18/09*/
+@import url(https://content.lameca.com.ar/Innovacion/IMPULSO%2021%20-%20NUEVO/landing/style.css); /*29/08*/
+@import url(https://content.lameca.com.ar/Innovacion/ASE/ASE.css); /*28/08*/
+@import url(https://content.lameca.com.ar/Innovacion/Aeropuertosargentina2000/style.css); /*25/08*/
+@import url(https://content.lameca.com.ar/Innovacion/REMAX/style.css); /*07/08*/
+@import url(https://content.lameca.com.ar/Innovacion/FLYBONDI/menuflybondi.css); /*2/08*/
+@import url(https://content.lameca.com.ar/Innovacion/APLVgenerico/style.css); /*28/07*/
+@import url(https://s3.us-east-1.amazonaws.com/content.lameca.com.ar/Innovacion/NISSAN/nissan-estilo.css); /*28/07 */
+@import url(https://s3.us-east-1.amazonaws.com/content.lameca.com.ar/Innovacion/mitre/mitre.css);
+@import url(https://content.lameca.com.ar/Innovacion/APEX/apex-style.css);
+@import url(https://s3.us-east-1.amazonaws.com/content.lameca.com.ar/Innovacion/FEHGRA/fehgra.css);
+@import url(https://content.lameca.com.ar/Innovacion/producto-flex/productoflex.css);
+@import url(https://content.lameca.com.ar/estilos/softtek/estilos.css);
+@import url(https://s3.us-east-1.amazonaws.com/content.lameca.com.ar/Innovacion/metodologia-investigacion/investigacion.css);
+@import url(https://content.lameca.com.ar/estilos/vicente_lopez/estilos.css);
+@import url(https://content.lameca.com.ar/estilos/aplv_2022/css/estilos.css); 
+@import url(https://s3.us-east-1.amazonaws.com/content.lameca.com.ar/Innovacion/Seminario-final/semfinal.css); 
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,500;0,600;0,700;0,800;1,500;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kadwa&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Muli&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Muli:wght@200;300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+@import url(https://content.lameca.com.ar/estilos/acordeon.css);
+@import url(https://content.lameca.com.ar/estilos/CSS_avon.css);
+@import url(https://content.lameca.com.ar/estilos/CSS_CEPAS.css);
+@import url(https://content.lameca.com.ar/estilos/TELECOM.css);
+@import url(https://content.lameca.com.ar/estilos/CSS_CNH.css);
+@import url(https://content.lameca.com.ar/estilos/CSS_FEHGRA.css);
+@import url(https://content.lameca.com.ar/estilos/CSS_FIAT.css);
+@import url(https://content.lameca.com.ar/estilos/CSS_WESTERN.css);
+@import url(https://content.lameca.com.ar/estilos/CSS_ALICAN.css);
+@import url(https://content.lameca.com.ar/estilos/CSS_MACRO.css);
+@import url(https://content.lameca.com.ar/estilos/CSS_laliga.css);
+@import url(https://content.lameca.com.ar/estilos/galeria_lightbox.css);
+@import url(https://content.lameca.com.ar/estilos/CSS_SUPERCANAL.css);
+@import url(https://content.lameca.com.ar/estilos/stylesheet.impulso.21_grado.css);
+@import url(https://content.lameca.com.ar/estilos/stylesheet_edcontinua.css);
+@import url(https://content.lameca.com.ar/estilos/parallaxcatalogo.css);
+@import url(https://content.lameca.com.ar/estilos/pruebahover3.css);
+@import url(https://content.lameca.com.ar/estilos/diplostyle_sheet.css);
+@import url(https://content.lameca.com.ar/estilos/CSS_aulagradosheet_responsive.css);
+/*@import url(https://content.lameca.com.ar/estilos/auxiliar.css);*/
+@import url(https://s3.us-east-1.amazonaws.com/content.lameca.com.ar/estilos/opciones-tfg-reparado.css);
+@import url(https://content.lameca.com.ar/estilos/forma_casa.css);
+@import url(https://content.lameca.com.ar/estilos/galeria_videos_CASA.css);
+@import url(https://content.lameca.com.ar/estilos/form_continua_c.css);
+@import url(https://content.lameca.com.ar/estilos/certif.css);
+@import url(https://content.lameca.com.ar/estilos/style_cursoniv_mba.css);
+/*@import url(https://content.lameca.com.ar/estilos/aulascursonivelacion.css);*/
+@import url(https://meca.ues21.edu.ar/blend_lightbox/aulascursonivelacion.css);
+@import url(https://content.lameca.com.ar/estilos/style-plataforma-mba.css);
+@import url(https://content.lameca.com.ar/estilos/programa2_0estilos.css);
+@import url(https://s3.us-east-1.amazonaws.com/content.lameca.com.ar/estilos/modulos_tfg_febrero.css);
+@import url(https://content.lameca.com.ar/estilos/pagina_ini.css);
+@import url(https://s3.us-east-1.amazonaws.com/content.lameca.com.ar/estilos/inicio-tfg2.css);
+@import url(https://content.lameca.com.ar/estilos/hamburguesa_r.css);
+@import url(https://content.lameca.com.ar/estilos/style_tfg_regulares.css);
+@import url(https://content.lameca.com.ar/estilos/style_tfg_regulares2.css);
+@import url(https://content.lameca.com.ar/estilos/style_infoblend.css);
+@import url(https://content.lameca.com.ar/estilos/practicasolidaria-inicioamplio.css);
+@import url(https://content.lameca.com.ar/estilos/practicasolidaria-iniciorecorte.css);
+@import url(https://content.lameca.com.ar/estilos/practicasolidariamodulos5.css);
+@import url(https://content.lameca.com.ar/estilos/revision_finality.css);
+/*@import url(https://content.lameca.com.ar/estilos/styleblend_inicio.css);*/
+/*@import url(https://meca.ues21.edu.ar/blend_lightbox/styleblend_inicio.css);*/
+@import url(https://s3.us-east-1.amazonaws.com/content.lameca.com.ar/estilos/blend2022-reparacion.css);
+
+@import url(https://content.lameca.com.ar/estilos/estilosblend_paginas.css);
+@import url(https://content.lameca.com.ar/estilos/busquedabibliografica_tfg.css);
+@import url(https://content.lameca.com.ar/estilos/bandermacrostylesheet.css);
+@import url(https://content.lameca.com.ar/estilos/estilos_cierreblend.css);
+@import url(https://content.lameca.com.ar/estilos/programagenerico.css);
+@import url(https://content.lameca.com.ar/estilos/catalogo_inno.css);
+@import url(https://content.lameca.com.ar/estilos/diplo_inn_educativa.css);
+@import url(https://content.lameca.com.ar/estilos/aula_uno_cinco_v2.css);
+@import url(https://content.lameca.com.ar/estilos/genericostyle-definitivo.css);
+@import url(https://content.lameca.com.ar/estilos/ccau.css);
+@import url(https://content.lameca.com.ar/estilos/nuevo_diplo_i.css);
+@import url(https://content.lameca.com.ar/estilos/grado2020-reparada4.css);
+@import url(https://content.lameca.com.ar/estilos/introvidauniversitaria.css);
+@import url(https://content.lameca.com.ar/estilos/deloittefinal1.css);
+@import url(https://content.lameca.com.ar/estilos/seminario_de_practica_v6.css);
+@import url(https://content.lameca.com.ar/estilos/metodo_de_caso_v5.css);
+@import url(https://content.lameca.com.ar/estilos/efip_v4.css);
+@import url(https://content.lameca.com.ar/estilos/aprendizaje_de_proyectos_v9.css);
+@import url(https://content.lameca.com.ar/estilos/integracionprofesional.css);
+@import url(https://content.lameca.com.ar/estilos/seminario_practica_profesional_v4.css);
+
+
+@import url(https://content.lameca.com.ar/estilos/certificaciones.css);
+@import url(https://content.lameca.com.ar/estilos/documentacion_v12.css);
+@import url(https://content.lameca.com.ar/estilos/inicio_v10.css);
+@import url(https://content.lameca.com.ar/estilos/proponer_organizaciones.css);
+@import url(https://content.lameca.com.ar/estilos/solicitar_organizacion.css);
+@import url(https://content.lameca.com.ar/estilos/preguntas_frecuentes_v6.css);
+@import url(https://content.lameca.com.ar/estilos/recorrido.css);
+@import url(https://content.lameca.com.ar/estilos/seminario_de_practica_v6.css);
+
+@import url(https://content.lameca.com.ar/estilos/onboarding_pag_inicio.css);
+@import url(https://content.lameca.com.ar/estilos/onboarding_pag_modulos.css);
+@import url(https://content.lameca.com.ar/estilos/onboarding_integracion_profesional.css);
+@import url(https://content.lameca.com.ar/estilos/on_boarding_seminario_practica_proy.css);
+@import url(https://content.lameca.com.ar/estilos/on_boarding_seminario_practica_profesional.css);
+@import url(https://content.lameca.com.ar/estilos/on_boarding_seminario_practica_caso.css);
+@import url(https://content.lameca.com.ar/estilos/on_boarding_seminario_practica.css);
+@import url(https://content.lameca.com.ar/estilos/on_boarding_seminario_practica_profesional.css);
+@import url(https://content.lameca.com.ar/estilos/on_boarding_practica_profesional.css);
+  
+@import url(https://content.lameca.com.ar/estilos/induccion.css);
+@import url(https://meca.ues21.edu.ar/test/imagen-ohlala/ohlala6.css);
+@import url(https://meca.ues21.edu.ar/test/imagen-ohlala/ohlala6.css);
+@import url(https://meca.ues21.edu.ar/lideres_educativos/lideres_educativos_base_v13.css);
+@import url(https://meca.ues21.edu.ar/programa_nuevo/estilos/programa_nuevo_2020.css);
+@import url(https://meca.ues21.edu.ar/caraffa/caraffa-style.css);
+@import url(https://meca.ues21.edu.ar/test/alkemy/alkemy6.css);
+@import url(https://meca.ues21.edu.ar/fehgra/fehgra_landing_v1.css);
+@import url(https://content.lameca.com.ar/estilos/grado_posgrado_2020/posgrado_2020.css);
+
+@import url(https://content.lameca.com.ar/estilos/actualizacion_psicologica.css);
+@import url(https://content.lameca.com.ar/estilos/induccion_a_la_universidad_y_al_rol/introduccion_a_la_univ_y_rol_v4.css);
+@import url(https://content.lameca.com.ar/Innovacion/universidadinterna9.css);
+@import url(https://content.lameca.com.ar/Innovacion/bancor/css/estilos_v3.css);
+@import url(https://content.lameca.com.ar/estilos/style-vida21.css);
+@import url(https://content.lameca.com.ar/Innovacion/ypf/YPFestilo.css);
+@import url(https://content.lameca.com.ar/estilos/impulso21_canvas.css);
+@import url(https://content.lameca.com.ar/estilos/estilos-Santanderaceleracion.css);
+@import url(https://content.lameca.com.ar/estilos/estilos-Santander-incubacion.css);
+@import url(https://content.lameca.com.ar/Innovacion/autocityestilo/estilos.css);
+
+@import url(https://content.lameca.com.ar/estilos/blenderizacion_landing/css/estilos.css);
+@import url(https://content.lameca.com.ar/estilos/parada_diplomatura.css);
+@import url(https://content.lameca.com.ar/Innovacion/BAGGIO/baggiolanding.css);
+@import url(https://content.lameca.com.ar/Innovacion/CABA/basecaba.css);
+@import url(https://content.lameca.com.ar/estilos/estilos-cbamejoraunidad.css);
+@import url(https://content.lameca.com.ar/canvas/0CORDOBAMEJORA/estilo12345/estilocbamejora123.css);
+
+@import url(https://content.lameca.com.ar/diplo_ivu_test/ivu_diplo.css);
+@import url(https://content.lameca.com.ar/estilos/cba_mejora_lideres_educativos/css/estilos.css);
+
+@import url(https://content.lameca.com.ar/estilos/ivu_diplo_2022/estilos.css);
+@import url(https://content.lameca.com.ar/estilos/ivu_diplo_competenciasparalainclusionsocialylaboral/estilos.css);
+
+@import url(https://s3.us-east-1.amazonaws.com/content.lameca.com.ar/estilos/stellantis/css/stellantis.css);
+
+
+
+/************************************************** 
+TIPOGRAFIAS
+***************************************************/
+
+@font-face {
+  font-family: "OpenSans";
+  src: url("../fonts/OpenSans-Bold-webfont.woff") format("woff");
+}
+
+@font-face {
+  font-family: "URW Geometric";
+  src: url("../fonts/URW-Geometric-W03-Regular.woff") format("woff");
+}
+
+
+@font-face {
+  font-family: "OpenSans";
+  src: url("../fonts/OpenSans-Bold-webfont.woff") format("woff");
+}
+
+
+@font-face {
+  font-family: "OpenSans";
+  src: url("../fonts/OpenSans-Bold-webfont.woff") format("woff");
+}
+
+
+/************************************************** 
+TOOLTIP BOTONES 
+***************************************************/
+
+img{
+  max-width:none !important;
+}
+
+::-webkit-scrollbar-track
+{
+  -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+  background-color: #F5F5F5;
+}
+
+::-webkit-scrollbar
+{
+  width: 8px;
+  background-color: #fafafa;
+}
+
+::-webkit-scrollbar-thumb
+{
+  border-radius: 10px;
+  -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+  background-color: #555;
+}
+
+
+
+/* Center the loader */
+#loader {
+  position: absolute;
+  left: 40%;
+  top: 20%;
+  z-index: 1;
+  width: 450px;
+  height: 450px;
+  background-image: url("https://media0.giphy.com/media/21LBCtx2f1INdEdw8r/source.gif");
+  background-size:cover;
+}
+
+@-webkit-keyframes spin {
+  0% { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* Add animation to "page content" */
+.animate-bottom {
+  position: relative;
+  -webkit-animation-name: animatebottom;
+  -webkit-animation-duration: 1s;
+  animation-name: animatebottom;
+  animation-duration: 1s
+}
+
+@-webkit-keyframes animatebottom {
+  from { bottom:-100px; opacity:0 } 
+  to { bottom:0px; opacity:1 }
+}
+
+@keyframes animatebottom { 
+  from{ bottom:-100px; opacity:0 } 
+  to{ bottom:0; opacity:1 }
+}
+
+#myDiv {
+  display: none;
+
+}
+
+/* Tooltip container */
+.tooltip {
+  position: relative;
+  display: inline-block;
+}
+
+/* Tooltip text */
+.tooltip .tooltiptext {
+  visibility: hidden;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+
+  /* Position the tooltip text */
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -60px;
+
+  /* Fade in tooltip */
+  opacity: 0;
+  transition: opacity 1s;
+}
+
+.esconder {
+  visibility: hidden;
+  display: none;
+}
+
+/* Tooltip arrow */
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+
+/************************************************** 
+  TEMPLATE 1 TECLAB
+  ***************************************************/
+
+  /* Secciones Internas y Contenido */
+  .ilmtm1_introduccion{
+    background-color:#182b49;
+    color:#333; 
+    margin:0;
+  }
+  .ilmtm1_introduccion h1{
+    font-family: Gruesa;
+    margin:1em 2em;
+    font-size:40pt;
+  }
+  .ilmtm1_seccion1 h1{
+    font-family: Normal;
+    text-align: left;
+    margin-left: 20%;
+    font-size: 4.79vw;
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+    font-weight: bold;
+    color: #fff;
+    letter-spacing: 2px;
+
+  }
+  .ilmtm1_seccion2{
+    background: url(https://content.lameca.com.ar/estilos/fondo.png) no-repeat; 
+    background-size: 100% ;
+    background-color: #147db9;
+    border-bottom: 10px solid #147db9;
+    padding-left: 60px;
+    padding-top: 30px;
+  }
+  
+  .paddingespecial{
+    height: 100px;
+  }
+  .ilmtm1_seccion1 {
+    color: #182b49;
+    background: url(https://content.lameca.com.ar/estilos/mm.png) no-repeat;
+    background-size: cover;
+  }
+  .ilmtm1_seccion1 a:hover {
+   text-decoration: none !important; 
+ }
+ .ilmtm1_seccion1 h1 {
+  margin-top: 2%;
+}
+.ilmtm1_seccion1 a {
+  text-decoration: none !important;
+}
+.ilmtm1_video-responsive iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.ilmtm1_boton1 a{
+  padding:1em 0.5em; 
+  border: 2pt solid #27bbe7; 
+  color:#27bbe7; 
+  text-align:center;
+}
+.ilmtm1_seccion3{
+  background-color:#fff;
+}
+.ilmtm1_seccion3 h1{
+  font-family: Gruesa;
+  color:#62bccc;
+  font-size: 42px;
+  text-align: center;  
+  text-align: center;
+  letter-spacing: 6px;
+}
+.ilmtm1_seccion3 p{
+  margin: 1em 1.5em;
+}
+
+.ilmtm1_seccion4{
+  background-color: #f2f2f2;
+  background: url(https://content.lameca.com.ar/estilos/fondobtnsinicio.png) no-repeat ; 
+  background-size: 100% ;
+}
+
+.ilmtm1_seccion4 a{
+  text-decoration: none;
+}
+.ilmtm1_seccion3 h1{
+  margin-top: 2%;
+  font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+  font-weight: bold;
+  color:#00496f;
+  font-size: 2.49vw;
+  letter-spacing: 2px;
+  text-align: left;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-bottom: 20px;
+  border-bottom: 3px solid #68776C;
+}
+.ilmtm1_seccion4 h1{
+  margin-top: 2%;
+  font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+  font-weight: bold;
+  color:#00496f;
+  font-size: 2.49vw;
+  letter-spacing: 2px;
+  margin-left: 5%;
+  margin-right: 5%;
+  text-align: left;
+  border-bottom: 3px solid #68776C;
+}
+
+.ilmtm1_seccion4 h2{
+  font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+  font-weight: bold;
+  color:#68776C;
+  font-size: 1.19vw;
+  text-align: center;
+  text-decoration: none;
+
+}
+
+.ilmtm1_seccion4 a{
+  text-decoration: none !important;
+}
+
+.ilmtm1_seccion7 h2{
+  margin-top: 0;
+  font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+  font-weight: bold;
+  color:#68776C;
+  font-size: 1.29vw;
+  text-align: center;
+  text-decoration: none;
+}
+
+.ilmtm1_seccion4 p{
+  margin: 1em 1.5em;
+}
+
+.ilmtm1_seccion5 p{
+ display: none;
+}
+
+.ilmtm1_seccion6{
+  background-color: #fff;
+}
+
+.ilmtm1_pie{
+  background-color: #147db9;
+  height: 10px;
+
+}
+
+.ilmtm1_boton2 a{
+  padding:1em 0.5em; 
+  border: 2pt solid #FFFFFF;
+  color: #FFFFFF; 
+  text-align:center;
+}
+.ilmtm1_sec3ima{
+  height: 100%;
+}
+.ilmtm1_seccVideo{
+  background-color: #182b49;
+  color: #FFF;
+  margin: 0;
+  padding: 0 0.5em; 
+}
+.imagenhover:hover  {
+  text-decoration: none;
+  visibility: visible;
+  overflow: visible;
+  margin-top: 10px;
+  display: inline;
+  text-align: center;
+  box-shadow: 0 0 0 4px #fff;
+  -webkit-transition: -webkit-transform 0.2s, opacity 0.2s;
+  -webkit-transform: scale(.8);
+  -moz-transition: -moz-transform 0.2s, opacity 0.2s;
+  -moz-transform: scale(.8);
+  -ms-transform: scale(.8);
+  transition: transform 0.2s, opacity 0.2s;
+  transform: scale(.8);
+  -webkit-filter: drop-shadow(5px 5px 5px #222);
+  filter: drop-shadow(5px 5px 5px #222);
+}
+.imagenhover2  {
+  text-decoration: none;
+  visibility: visible;
+  overflow: visible;
+  display: inline;
+  text-align: center;
+  opacity: 10;
+  transition: opacity .5s ease-out;
+  -moz-transition: opacity .5s ease-out;
+  -webkit-transition: opacity .5s ease-out;
+  -o-transition: opacity .5s ease-out;
+  transition: grayscale 0.5s;
+  filter: grayscale(0);
+  -webkit-transition: all .5s ease-out;
+  -moz-transition: all .5s ease-out;
+  -o-transition: all .5s ease-out;
+  -ms-transition: all .5s ease-out;
+  transition: all .5s ease-out;
+}
+.imagenhover  {
+  text-decoration: none;
+  visibility: visible;
+  overflow: visible;
+  margin-top: 10px;
+  display: inline;
+  text-align: center;
+  transition: opacity .5s ease-out;
+  -moz-transition: opacity .5s ease-out;
+  -webkit-transition: opacity .5s ease-out;
+  -o-transition: opacity .5s ease-out;
+  transition: grayscale 0.5s;
+  filter: grayscale(0);
+  -webkit-transition: all .5s ease-out;
+  -moz-transition: all .5s ease-out;
+  -o-transition: all .5s ease-out;
+  -ms-transition: all .5s ease-out;
+  transition: all .5s ease-out;
+  background-color: #ebeff4;
+  border-radius: 50%;
+  margin-left: 10%;
+  width: 70%;
+}
+
+.imagenhover2:hover  {
+  opacity: 10;
+  text-decoration: none;
+  visibility: visible;
+  overflow: visible;
+  margin-top: 10px;
+  display: inline;
+  text-align: center;
+
+  -webkit-transition: -webkit-transform 0.6s, opacity 0.6s;
+  -webkit-transform: scale(.8);
+  -moz-transition: -moz-transform 0.6s, opacity 0.6s;
+  -moz-transform: scale(.4);
+  -ms-transform: scale(.8);
+  transition: transform 0.6s, opacity 0.6s;
+  transform: scale(.8);
+  filter: gray; /* IE6-9 */
+  -webkit-filter: grayscale(1); /* Google Chrome, Safari 6+ & Opera 15+ */
+  filter: grayscale(1); /* Microsoft Edge and Firefox 35+ */
+  margin-top: 0px;
+
+}
+
+/*Borra los iconos de link externos*/
+
+a.external .ui-icon-extlink {
+  display: none;
+  padding: 0;
+  vertical-align: middle;
+}
+
+.ui-icon{visibility:hidden;}
+
+
+/*Hover de paginas de TFG*/
+
+.textosmodulo0:hover{
+ color:#FFA300;
+ transition:0.5s;
+}
+
+.textosmodulo0 a:hover{
+ color:#FFA300;
+ transition:0.5s;
+}
+
+.textosmodulo0{
+  color:#009681;
+  transition:0.5s;
+}
+
+
+.textosmodulo0b:hover{
+ color:#FFA300;
+ transition:0.5s;
+}
+
+.textosmodulo0b a:hover{
+ color:#FFA300;
+ transition:0.5s;
+}
+
+.textosmodulo0b{
+  color:#4d4d4d;
+
+}
+
+/*Hover de paginas de Macro - (Proyecto: Nuevos cursos InCompany*/
+
+.textos_inicio_macro:hover{
+ color:#F68937;
+ transition:0.5s;
+}
+
+.textos_inicio_macro a:hover{
+ color:#F68937;
+ transition:0.5s;
+}
+
+.textos_inicio_macro{
+  color:#B3B3B3;
+  transition:0.5s;
+}
+
+
+/*Codigo de seminario final de actualizacion*/
+
+.containerseminarioactualizacion{
+  width:98%;
+  height:60vh;
+}
+
+.topseminarioactualizacion{
+  position:absolute;
+  width: 99%;
+  height: 40vh; 
+  background-image: url("https://content.lameca.com.ar/estilos/imagenes_css/seminario_actualizacion/seminario_actualizacion.png"); 
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  margin-top:2vh;
+  overflow-x:hidden;
+  margin-left:-1%;
+
+    
+
+  }
+
+.textoseminarioactualizacion{
+  position:absolute;
+  margin-top:35vh;
+  color:white;
+  font-size:2vw;
+  font-family:Roboto;
+  font-weight:bolder;
+  left:3%;
+  width:40%;
+}
+
+.programaseminarioactualizacion,.programaseminarioactualizacion a{
+  color:#009681;
+  font-family:Roboto;
+  text-align:right;
+  font-size:2vh;
+  font-weight:bolder;
+}
+
+.programaseminarioactualizacion:hover{
+  color:#FFA300;
+  transition:0.5s;
+  
+}
+
+.programaseminarioactualizacion a:hover{
+  color:#FFA300;
+  transition:0.5s;
+  
+}
+
+.modulosseminarioactualizacion, .modulosseminarioactualizacion a, .modulosseminarioactualizacion_tp, .modulosseminarioactualizacion_tp a  {
+  width:22.2%;
+  padding:1%;
+  height:auto;
+  margin-top:44vh;
+  background-color:#efefef;
+  position:relative;
+  float:left;
+  font-size: 8vh;
+  text-align:center;
+  border:0.2vh;
+  border-style:solid;
+  border-color:white;
+  color:#FFA300;
+  border-bottom-color:#009681;
+  font-weight:bolder;
+  font-family:Roboto;
+}
+
+.modulosseminarioactualizacion_tp:hover, .modulosseminarioactualizacion_tp a:hover {
+  background-color: #004E43 !important;
+  transition: 0.5s;
+}
+
+
+.modulosseminarioactualizacion:first-letter, .modulosseminarioactualizacion a:first-letter{
+  color:#009681;
+}
+
+.modulosseminarioactualizacion:hover, .modulosseminarioactualizacion a:hover{
+  background-color:#CFD2D3;
+  transition:0.5s;
+}
+
+
+
+@media only screen and (max-width: 825px)  {
+
+  .modulosseminarioactualizacion, .modulosseminarioactualizacion a {float:center; font-size: 15vh; width:52%; margin-top:0vh; }
+  .programaseminarioactualizacion {text-align:left;}
+  .topseminarioactualizacion {opacity:0;}
+}
+
+/*Codigo para desactivar los campos de Multiple factores*/
+
+#new_phone_form {
+  display: none;
+}
+
+/*Cierre generico*/
+
+#gireround1, #gireround2, #gireround3, #gireround4, #gireround5, #gireround6, #gireround7{
+  width:40px;
+  height:40px;
+  border-radius:40px;
+  border-style:solid;
+  border-color:#989898;
+  border-width:10px;
+  background-color:white;
+  float:left;
+  margin-left:80px;
+  z-index:999;
+  transition:0.5s;
+}
+
+#gireround1{
+  margin-left:240px;
+}
+
+#linegire5{
+  
+  position:absolute;
+  top:25px;
+  width:600px;
+  height:14px;
+  left:260px;
+  background-color:#989898;
+  float:left;
+  z-index:-999;
+  transition:0.5s;
+
+}
+
+#linegire2{
+  
+  position:absolute;
+  top:25px;
+  width:140px;
+  height:14px;
+  left:260px;
+  background-color:#989898;
+  float:left;
+  z-index:-999;
+  transition:0.5s;
+
+}
+
+#linegire3{
+  
+  position:absolute;
+  top:25px;
+  width:280px;
+  height:14px;
+  left:260px;
+  background-color:#989898;
+  float:left;
+  z-index:-999;
+  transition:0.5s;
+
+}
+
+#linegire4{
+  
+  position:absolute;
+  top:25px;
+  width:410px;
+  height:14px;
+  left:260px;
+  background-color:#989898;
+  float:left;
+  z-index:-999;
+  transition:0.5s;
+
+}
+
+
+
+#linegire6{
+  
+  position:absolute;
+  top:25px;
+  width:698px;
+  height:14px;
+  left:260px;
+  background-color:#989898;
+  float:left;
+  z-index:-999;
+  transition:0.5s;
+
+}
+
+
+#linegire-clic{
+  
+  position:absolute;
+  top:25px;
+  width:0px;
+  height:14px;
+  left:260px;
+  background-color:#333333;
+  float:left;
+  z-index:-999;
+  transition:0.5s;
+
+}
+
+#boxgire1, #boxgire2, #boxgire3, #boxgire4, #boxgire5, #boxgire6{
+  
+  position:absolute;
+  width:650px;
+  top:80px;
+  padding:15px;
+  margin-left:40px;
+  border-style:solid;
+  border-color:#787878;
+  border-width:5px;
+  background-color:white;
+  font-size:18px;
+  font-family:Roboto;
+  color:#787878;
+}
+
+
+
+
+#girebubble1, #girebubble2, #girebubble3, #girebubble4, #girebubble5, #girebubble6{
+  position:absolute;
+  top:85px;
+  height:355px;
+  width:365px;
+  background-image:url("https://content.lameca.com.ar/estilos/cierre01.png");
+  background-size:100%;
+  background-repeat:no-repeat;
+  font-family:Arial;
+  font-size:0.8em;
+  color:#787878;
+  opacity:0;
+  transition:1s;
+}
+
+#girebubble1{opacity:1; margin-left:90px;}
+
+#girebubble2{margin-left:230px;}
+#girebubble3{margin-left:370px;}
+#girebubble4{margin-left:510px;}
+#girebubble5{margin-left:650px;}
+#girebubble6{margin-left:850px;}
+
+#girebubble1 p, #girebubble2 p, #girebubble3 p, #girebubble4 p, #girebubble5 p, #girebubble6 p{
+  width:300px;
+  margin-top:30px;
+  margin-left:30px;
+}
+
+.containergire{
+  position:relative;
+  height:70vh;
+  overflow-x:hidden;
+  overflow-y:hidden;
+}
+
+
+.pruebacapa a{
+  padding:10px;
+  font-family:Roboto;
+  background-color:grey;
+  color:black;
+  transition:0.5s;
+}
+
+.pruebacapa a:visited{
+  padding:10px;
+  color:white;
+  font-family:Roboto;
+  background-color:black;
+  transition:0.5;
+
+}
+
+.pruebacapa a:hover{
+  padding:10px;
+  color:white;
+  font-family:Roboto;
+  background-color:red;
+  transition:0.5;
+
+}
+
+/*CORDOBA MEJORA*/
+
+.cbamejora-header{
+  width:100%;
+  text-align:center;
+}
+
+.cbamejora-container2 img:hover{
+  -webkit-filter: grayscale(100%); /* Safari */
+  filter: grayscale(100%);
+  transition:0.5s;
+}
+
+.cbamejora-container img{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  object-fit:cover;
+}
+
+.cbamejora-container2, .cbamejora-container2 img{
+  width:65%;
+  margin:auto;
+    transition:0.5s;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+  }
+
+.cbamejora-video{
+    width: 15%;
+    margin-left: 68%;
+    background: white;
+    height: 22.8vw;
+    margin-top: -23.2vw;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.cbamejora-container{
+
+  width:100%;
+  height: 29vw;
+    color: black;
+  background: repeating-linear-gradient(
+    45deg,
+    transparent,
+    transparent 6px,
+    #fafafa 2px,
+    #fafafa 8px
+
+  ),
+  linear-gradient(
+    to bottom,
+    white,
+    white
+  )
+}
+
+
+.cbamejora-container3{
+
+  width:100%;
+  height: 25vw;
+    color: black;
+  background: repeating-linear-gradient(
+    45deg,
+    transparent,
+    transparent 6px,
+    #fafafa 2px,
+    #fafafa 8px
+
+  ),
+  linear-gradient(
+    to bottom,
+    white,
+    white
+  )
+}
+
+
+.recorridoright-title1 {
+    float: left;
+    position: absolute;
+    margin-left: 35%;
+    color: #1da997;
+    font-weight: bold;
+    margin-top: 210px;
+    font-family: Roboto;
+    font-size: 30px;
+}
+
+
+.dropdown {
+  position: relative;
+display:contents; ;
+width:100%;
+transition:0.5s;
+}
+
+.dropdown-content {
+  display: none;
+  position: relative;
+  background-color: #f9f9f9;
+  width:100%;
+  padding: 12px 16px;
+  z-index: 1;
+  transition:0.5s;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+
+.examenmbaniv{
+    position: relative;
+    /* margin-top: 4%; */
+    font-family: Roboto;
+    font-weight: bold;
+    color: white;
+    font-size: 1vmax;
+    line-height: 1;
+    float: right;
+    padding: 10px;
+    /* width: 100px; */
+    border-radius: 50px;
+    background: #009781;
+    color: white;
+    font-family: Roboto;
+    font-size: 8px;
+    text-align: center;
+    transition: 0.5s;
+    right: 28%;
+        /* float: right; */
+    display: inline-table;
+    color: white!important;
+    padding: 1%;
+    border-radius: 50px;
+    /* margin-right: 25%; */
+    background: #009781;
+    margin-left: 1%;
+    /* right: 0; */
+}
+
+.fixednivelacion{
+  position:fixed;
+
+}
+
+#recorridonivelacion{
+  filter: grayscale(100%);
+}
+
+#recorridonivelacion1{
+animation: pulsebis 1s infinite;
+}
+.examenmbaniv a{color:white!important;}
+
+
+.examenmbaniv:hover{
+    background: #D8D8D8;
+
+}
+
+.section-header, .steps-header, .steps-name {
+  color: white;
+  font-weight: 400;
+  font-size: 0.7vw;
+  font-family:Roboto;
+}
+
+.steps-header {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.steps-timeline {
+  outline: 1px dashed rgba(255, 0, 0, 0);
+}
+@media screen and (max-width: 500px) {
+  .steps-timeline {
+    border-left: 2px solid #D8D8D8;
+    margin-left: 25px;
+  }
+}
+@media screen and (min-width: 500px) {
+  .steps-timeline {
+    border-top: 2px solid #D8D8D8;
+    padding-top: 20px;
+    margin-top: 40px;
+    margin-left: 16.65%;
+    margin-right: 16.65%;
+  }
+}
+.steps-timeline:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.steps-one,
+.steps-two,
+.steps-three {
+  outline: 1px dashed rgba(0, 128, 0, 0);
+}
+@media screen and (max-width: 500px) {
+  .steps-one,
+  .steps-two,
+  .steps-three {
+    margin-left: -25px;
+  }
+}
+@media screen and (min-width: 500px) {
+  .steps-one,
+  .steps-two,
+  .steps-three {
+    float: left;
+    width: 33%;
+    margin-top: -50px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .steps-one,
+  .steps-two {
+    padding-bottom: 40px;
+  }
+}
+
+@media screen and (min-width: 500px) {
+  .steps-one {
+    margin-left: -16.65%;
+    margin-right: 16.65%;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .steps-three {
+    margin-bottom: -100%;
+  }
+}
+@media screen and (min-width: 500px) {
+  .steps-three {
+    margin-left: 16.65%;
+    margin-right: -16.65%;
+  }
+}
+
+.steps-img {
+  display: block;
+  margin: auto;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+@media screen and (max-width: 500px) {
+  .steps-img {
+    float: left;
+    margin-right: 20px;
+  }
+}
+
+.steps-name,
+.steps-description {
+  margin: 0;
+}
+
+@media screen and (min-width: 500px) {
+  .steps-name {
+    text-align: center;
+  }
+}
+
+.steps-description {
+  overflow: hidden;
+}
+@media screen and (min-width: 500px) {
+  .steps-description {
+    text-align: center;
+  }
+}
+
+@keyframes pulsebis {
+  0% {
+    transform: scale(0.95);
+    box-shadow: 0 0 0 0 rgba(255, 255, 255, 0.7);
+  }
+
+  70% {
+    transform: scale(1);
+    box-shadow: 0 0 0 10px rgba(255, 255, 255, 255);
+  }
+
+  100% {
+    transform: scale(0.95);
+    box-shadow: 0 0 0 0 rgba(255, 255, 255, 255);
+  }
+}
+
+#fondocbamejora1{
+  background-image: url("https://meca.ues21.edu.ar/test/fondocba.gif");
+  background-size: cover;
+}
+
+#fondomicaela{
+  background-image: url("https://meca.ues21.edu.ar/test/LeyMicaela.gif");
+  background-size: cover;
+}
+
+#fondoblend{
+  background-image: url("https://meca.ues21.edu.ar/test/blend.gif");
+  background-size: cover;
+}
+
+
+.student-assignment-overview{
+display:none;
+}
+
+
+#leymicaela{
+  border-radius: 5px!important;
+  background: #808080;
+}
+
+.lideres_educativos_contenedor_background1 {
+    position: relative;
+    width: 100%;
+    height: 30vh;
+    background-image: url(https://meca.ues21.edu.ar/test/micaela.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.lightbox_pant_prin {
+  /** Default lightbox to hidden */
+  display: none;
+
+  /** Position and style */
+  position: fixed!important;
+  z-index: 999;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  top: 0;
+  left: 0;
+  background: rgba(0,0,0,0.8);
+}
+
+.lightbox_pant_prin img {
+  width: 1%;
+  position: absolute;
+  z-index: 2;
+  top: 15%; left: 81%; 
+}
+
+.lightbox_pant_prin iframe {
+  /** Pad the lightbox image */
+  max-width: 94%!important;
+  max-height: 100%!important;
+  margin-top: 0!important;
+  margin-left: -45%!important;
+  width: 100%;
+  position:fixed!important;
+ }
+
+ #img_X{
+  top:-1.5%!important;
+  left: 9%!important;
+  width:2%!important;
+ }
+
+@media screen and (max-width: 950px) {
+ #img_X {
+    width: 3%!important;
+    margin-top: 3%!important;
+    left: 9%!important;
+}
+}
+
+
+
+.lightbox_pant_prin:target {
+  /** Remove default browser outline */
+  outline: none;
+
+  /** Unhide lightbox **/
+  display: block;
+}
+
+#containerM1 .file_download_btn{
+  display:none!important;
+  opacity:0!important;
+}
+
+#containerM2 .file_download_btn{
+  display:none!important;
+  opacity:0!important;
+}
+
+#containerM3 .file_download_btn{
+  display:none!important;
+  opacity:0!important;
+}
+
+#containerM4 .file_download_btn{
+  display:none!important;
+  opacity:0!important;
+}
+
+
+#headersolidaria .file_download_btn{
+  display:none!important;
+  opacity:0!important;
+}
+
+.Claro_contenedor_background {
+    position: relative;
+    width: 100%;
+    height: 30vh;
+    background-image: url(https://content.lameca.com.ar/Innovacion/CLARO/imagenclaro.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.menuclaro:hover {
+ color:#b72c2b;
+ transition:0.5s;
+}
+
+.fondoeducacionpositiva{
+  background-image:url("https://content.lameca.com.ar/Innovacion/Vida21iconos/Vida%2021%20-%20Mindfulness_fondo.png");
+    background-size:cover;
+    height:400px;
+  vertical-align:middle;
+    
+}
+
+.ic-sidebar-logo__image {
+    max-width: 180px;
+    max-height: 70px;
+    visibility: hidden;
+    display: inline-block;}
+
+.broken-image{
+  border: 0px;
+}
